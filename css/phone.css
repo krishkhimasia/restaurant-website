@@ -1,0 +1,24 @@
+/* NavBar */
+#navbar{
+    flex-direction: column;
+}
+
+/* Home */
+#home{
+    height: 200px;
+}
+
+#home::before{
+    height: 200px;
+}
+
+/* Services */
+#services{
+    flex-direction: column;
+}
+
+
+/* Client */
+#clients{
+    overflow: hidden;
+}
